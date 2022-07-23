@@ -94,7 +94,6 @@ def header():
     ---
 
     - Here is a list of sample URLS to try out -- COPY & PASTE BELOW:
-        - https://drive--google.com/jay.shankar
         - https://efax.hosting.com.mailru382.co/efaxdelivery/2017Dk4h325RE3
         - https://drive.google.com.download-photo.sytez.net/AONh1e0hVP
         - https://www.dropbox.com/buy
